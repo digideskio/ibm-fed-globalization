@@ -1,0 +1,143 @@
+[
+    "index.md",
+    "who-am-i.md",
+    {
+        "filename": "what-is-globalization.md",
+        "attr": {
+            "data-background": "https://upload.wikimedia.org/wikipedia/commons/b/be/Apollo17WorldReversed.jpg"
+        }
+    },
+    "or-formats-dates-the-same-way.md",
+    "number-formatting.md",
+    {
+        "filename": "currency.md",
+        "attr": {
+            "data-background": "resources/money-fight.gif"
+        }
+    },
+    {
+        "filename": "left-to-right.md",
+        "attr": {
+            "data-background": "resources/hypnoseal.gif"
+        }
+    },
+    {
+        "filename": "why-listen-to-me.md",
+        "attr": {
+            "data-background": "resources/no-idea-astronaut.gif"
+        }
+    },
+    {
+        "filename": "start-early.md",
+        "attr": {
+            "data-background": "resources/rough-awakening.gif"
+        }
+    },
+    {
+        "filename": "no-more-strings.md",
+        "attr": {
+            "data-background": "http://i.giphy.com/qsTLeObxWPII.gif"
+        }
+    },
+    "what-strings-look-like-now.md",
+    "obvious-strings.md",
+    "less-obvious-strings.md",
+    "multi-part-strings.md",
+    "text-in-images.md",
+    "charts-are-images-too.md",
+    "libraries.md",
+    {
+        "filename": "give-up-control.md",
+        "attr": {
+            "data-background": "resources/save-en.png"
+        }
+    },
+    {
+        "filename": "longer-words.md",
+        "attr": {
+            "data-background": "resources/save-fr.png"
+        }
+    },
+    {
+        "filename": "use-libraries.md",
+        "attr": {
+            "data-background": "resources/belle-library-better.gif"
+        }
+    },
+    "i18next.md",
+    "jquery-globalize.md",
+    {
+        "filename": "rtfm.md",
+        "attr": {
+            "data-background": "resources/book-wrong-way.gif"
+        }
+    },
+    "don-t-trust-the-defaults.md",
+    {
+        "filename": "never-trust-a-browser.md",
+        "attr": {
+            "data-background": "http://i.giphy.com/6H84oFEARGhvW.gif"
+        }
+    },
+    "language-detection.md",
+    {
+        "filename": "use-the-headers.md",
+        "attr": {
+            "data-background": "http://i.giphy.com/IWOw1NP600ktG.gif"
+        }
+    },
+    {
+        "filename": "keep-it-dry.md",
+        "attr": {
+            "data-background": "http://i.giphy.com/WjjXDenYaxQys.gif"
+        }
+    },
+    "don-t-repeat-languages.md",
+    "don-t-repeat-languages-2.md",
+    "don-t-repeat-languages-3.md",
+    "don-t-repeat-languages-4.md",
+    "don-t-repeat-languages-5.md",
+    {
+        "filename": "test-a-lot.md",
+        "attr": {
+            "data-background": "resources/bad-day-ape.gif"
+        }
+    },
+    {
+        "filename": "use-the-machines.md",
+        "attr": {
+            "data-background": "resources/ketchup-machine.gif"
+        }
+    },
+    {
+        "filename": "just-do-it.md",
+        "attr": {
+            "data-background": "http://i.giphy.com/wErJXg1tIgHXG.gif"
+        }
+    },
+    {
+        "filename": "why-do-it.md",
+        "attr": {
+            "data-background": "resources/so-what-rudd.gif"
+        }
+    },
+    {
+        "filename": "it-makes-us-money.md",
+        "attr": {
+            "data-background": "resources/PEGGY-COUNTING-MONEY.gif"
+        }
+    },
+    {
+        "filename": "it-s-a-nice-thing-to-do.md",
+        "attr": {
+            "data-background": "resources/ellen-shove.gif"
+        }
+    },
+    {
+        "filename": "we-are-nice.md",
+        "attr": {
+            "data-background": "http://i.giphy.com/tBb19fjelFEnjSHfkNq.gif"
+        }
+    },
+    "learn-more.md"
+]
